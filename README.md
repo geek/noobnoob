@@ -1,6 +1,6 @@
 # noob noob
 
-Useful stacktraces for development that include code highlighting.
+Useful error stacktraces for development that include code highlighting.
 
 [![Build Status](https://travis-ci.org/geek/noobnoob.png)](https://travis-ci.org/geek/noobnoob)
 
