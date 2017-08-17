@@ -15,6 +15,6 @@ node -r noobnoob example.js
 
 When an error's stack is formatted it will include useful details about the code that generated the error. Below is an example of the output from noob noob
 
-[![example](images/screenshot.png)]
+![example](images/screenshot.png)
 
 
