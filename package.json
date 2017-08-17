@@ -1,0 +1,25 @@
+{
+  "name": "noobnoob",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib",
+  "scripts": {
+    "lint": "belly-button",
+    "test": "npm run lint && lab -c"
+  },
+  "keywords": [
+    "stack",
+    "stacktrace",
+    "debug"
+  ],
+  "author": "wyatt",
+  "license": "MPL-2",
+  "dependencies": {
+    "ansicolors": "^0.3.2",
+    "cardinal": "^1.0.0"
+  },
+  "devDependencies": {
+    "belly-button": "^4.0.1",
+    "lab": "^14.2.0"
+  }
+}
